@@ -1,1 +1,1 @@
-# parlament
+# Distributia parlamentarilor in functie de voturile exprimate.
